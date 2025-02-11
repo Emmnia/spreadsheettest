@@ -24,6 +24,12 @@
 .DS_Store
 *.pem
 /.idea/
+sheetstest-450415-4172bcb23c62.json
+src/app/api/image/[id].ts
+src/app/api/submit/routeExample.ts
+moderationIdeas.tsx
+pageExample.tsx
+
 
 # debug
 npm-debug.log*
