@@ -25,7 +25,7 @@
 *.pem
 /.idea/
 sheetstest-450415-4172bcb23c62.json
-/app/api/image/[id].ts
+/app/api/image/
 src/app/api/submit/routeExample.ts
 moderationIdeas.tsx
 pageExample.tsx
