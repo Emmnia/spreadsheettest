@@ -8,7 +8,7 @@ type Review = {
     photo: string;
 };
 
-export async function GET(request: Request) {
+export async function GET() {
     try {
         const auth = new google.auth.GoogleAuth({
             credentials: {
